@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a **Freelance Software Developer**
+- 🔭 I’m currently working as a **Software Developer** at **Rocketindo**
 - 🌱 I’m currently learning **C#**, **.NET Core**, **Next.js**
 - 📫 Reach me on **michaelangelo4489@gmail.com**
   
