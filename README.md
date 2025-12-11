@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a **Software Developer** at **Rocketindo**
-- 🌱 I’m currently learning **C#**, **.NET Core**, **Next.js**
+- 🌱 I’m currently preparing to get **Google Cloud Platform - Associate Cloud Engineer** certification
 - 📫 Reach me on **michaelangelo4489@gmail.com**
 
